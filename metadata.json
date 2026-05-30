@@ -1,0 +1,6 @@
+{
+  "name": "FolderFlow",
+  "description": "Smart app-organization companion to automatically classify apps into smart, dynamic folders with live widgets and tag management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
